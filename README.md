@@ -1,6 +1,6 @@
 # Machine-Learning-for-Data-Science-DSCI-552
 
-This repository contains coursework from DSCI 552: Machine Learning for Data Science, a graduate-level course at USC. The class focused on both theoretical foundations and practical applications of machine learning, with a strong emphasis on hands-on problem solving using Python and Jupyter Notebooks. Topics covered include supervised and unsupervised learning, regression, classification, decision trees, ensemble methods, dimensionality reduction, neural networks, SVMs, and probabilistic models.
+Hi, my name is Ashley! This repository contains coursework from DSCI 552: Machine Learning for Data Science, a graduate-level course at USC. The class focused on both theoretical foundations and practical applications of machine learning, with a strong emphasis on hands-on problem solving using Python and Jupyter Notebooks. Topics covered include supervised and unsupervised learning, regression, classification, decision trees, ensemble methods, dimensionality reduction, neural networks, SVMs, and probabilistic models.
 
 Each folder contains a homework assignment that showcases data exploration, model building, and evaluation using real-world datasets. These assignments reflect my ability to apply core ML algorithms, perform error analysis, and communicate insights through code and visualizations.
 
