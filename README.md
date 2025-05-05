@@ -4,8 +4,7 @@ Welcome to my Data Science and Machine Learning portfolio! This repository showc
 
 The content reflects hands-on experience and conceptual mastery gained through two core courses:
 
-1. Computational Thinking and Data Science:
-This course focused on developing a computational mindset to solve data-driven problems. Concepts include:
+1. Computational Thinking and Data Science - This course focused on developing a computational mindset to solve data-driven problems. Concepts include:
 
 - Data representation and transformation
 
@@ -18,8 +17,7 @@ This course focused on developing a computational mindset to solve data-driven p
 - Algorithmic problem solving using Python
 
 
-2. Machine Learning for Data Science: 
-This course provided a rigorous foundation in modern machine learning techniques and their applications to real-world problems. Concepts include:
+2. Machine Learning for Data Science - This course provided a rigorous foundation in modern machine learning techniques and their applications to real-world problems. Concepts include:
 
 - Supervised learning (linear models, decision trees, ensembles)
 
