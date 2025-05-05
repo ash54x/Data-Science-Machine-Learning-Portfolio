@@ -17,6 +17,7 @@ This course focused on developing a computational mindset to solve data-driven p
 
 - Algorithmic problem solving using Python
 
+
 2. Machine Learning for Data Science
 This course provided a rigorous foundation in modern machine learning techniques and their applications to real-world problems. Concepts include:
 
