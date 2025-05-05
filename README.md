@@ -1,23 +1,32 @@
-# Machine-Learning-for-Data-Science-DSCI-552
+# Data Science / Machine Learning Portfolio
 
-Hi, my name is Ashley! This repository contains coursework from DSCI 552: Machine Learning for Data Science, a graduate-level course at USC. The class focused on both theoretical foundations and practical applications of machine learning, with a strong emphasis on hands-on problem solving using Python and Jupyter Notebooks. Topics covered include supervised and unsupervised learning, regression, classification, decision trees, ensemble methods, dimensionality reduction, neural networks, SVMs, and probabilistic models.
+Welcome to my Data Science and Machine Learning portfolio! This repository showcases a curated collection of projects and coursework developed during my graduate-level studies in data science at USC. Each subfolder contains well-documented, reproducible code designed to highlight technical skills, data manipulation capabilities, and a deep understanding of machine learning workflows.
 
-Each folder contains a homework assignment that showcases data exploration, model building, and evaluation using real-world datasets. These assignments reflect my ability to apply core ML algorithms, perform error analysis, and communicate insights through code and visualizations.
+The content reflects hands-on experience and conceptual mastery gained through two core courses:
 
-Homework Concepts
+1. Computational Thinking and Data Science
+This course focused on developing a computational mindset to solve data-driven problems. Concepts include:
 
-- Homework 1: Linear regression, gradient descent, and error metrics
+- Data representation and transformation
 
-- Homework 2: Logistic regression, classification, and performance evaluation
+- Relational algebra and SQL for data querying
 
-- Homework 3: Decision trees, pruning, and ensemble methods
+- Graph theory and network data analysis
 
-- Homework 5: Clustering (K-Means, Hierarchical), PCA, dimensionality reduction
+- MapReduce and large-scale data processing
 
-- Homework 6: Neural networks and backpropagation
+- Algorithmic problem solving using Python
 
-- Homework 7: Probabilistic reasoning, HMMs, and the EM algorithm
+2. Machine Learning for Data Science
+This course provided a rigorous foundation in modern machine learning techniques and their applications to real-world problems. Concepts include:
 
-- Homework 8: Naive Bayes, SVMs, and boosting techniques
+- Supervised learning (linear models, decision trees, ensembles)
 
-This project highlights my practical understanding of machine learning techniques and my ability to implement, interpret, and communicate results clearly—skills essential for a data science or machine learning role.
+- Unsupervised learning (clustering, dimensionality reduction)
+
+- Model selection, evaluation, and cross-validation
+
+- Optimization and regularization techniques
+
+- Neural networks and deep learning fundamentals
+
